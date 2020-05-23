@@ -13,6 +13,9 @@ http://vincentgarreau.com/particles.js/
 CodePen demo: <br />
 http://codepen.io/VincentGarreau/pen/pnlso
 
+HTML demo: <br />
+http://www.fangkuaiyun.com/
+
 -------------------------------
 ### `Usage`
 
